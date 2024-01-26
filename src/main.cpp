@@ -10,8 +10,8 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid="POCO M2 Reloaded";
-const char* password="suraj best";
+const char* ssid="your ssid";
+const char* password="password";
 WiFiClient client;
 const char* myWriteAPIKey="Use Thingspeak api key";
 const int echo=12;
