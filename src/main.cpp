@@ -13,7 +13,7 @@ DHT dht(DHTPIN, DHTTYPE);
 const char* ssid="POCO M2 Reloaded";
 const char* password="suraj best";
 WiFiClient client;
-const char* myWriteAPIKey="CE26DI6JLIUPXCIM";
+const char* myWriteAPIKey="Use Thingspeak api key";
 const int echo=12;
 const int trig=13;
 long myNumber=2120554;
