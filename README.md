@@ -1,5 +1,11 @@
 # Rain-detection-and-water-level-indicator
-this is a real time hardware based project which senses the water droplets and also detect water level.
+this is a real time hardware based project which senses the water level ,rain droplets and humidity,temperature.
+
+## Features:
+- Measure water level ,rain droplets and humidity,temperature.
+- Based on measured data calculates flood possibilities.
+- send all the data to Thingspeak webserver(Internet).
+- Also shows output on Serial monitor.
 
 ## hardwere components needed:
 - ESP32 DEVKITV1(microcontroller).
